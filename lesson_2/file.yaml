@@ -1,0 +1,9 @@
+dict:
+  dict1: ˆ
+  dict2: 999
+int: 999
+list:
+- one
+- two
+- 3
+- 4
