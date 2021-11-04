@@ -1,0 +1,30 @@
+2021-11-04 17:14:09,076 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:14:31,679 - INFO - server: start_server - Готов к приему клиентов! 
+ 
+2021-11-04 17:14:37,396 - INFO - server: start_server - Принято сообщение от клиента: {'action': 'presence', 'time': '2021-11-04-17.14.37', 'user': {'account_name': 'Guest'}} 
+2021-11-04 17:14:37,396 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:14:37,396 - INFO - server: start_server - Приветствуем пользователя Guest! 
+2021-11-04 17:14:37,397 - INFO - server: start_server - Отправка ответа клиенту: 
+2021-11-04 17:15:00,969 - INFO - server: start_server - Принято сообщение от клиента: {'action': 'presence', 'time': '2021-11-04-17.15.00', 'user': {'account_name': 'Guest'}} 
+2021-11-04 17:15:00,969 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:15:00,969 - INFO - server: start_server - Приветствуем пользователя Guest! 
+2021-11-04 17:15:00,969 - INFO - server: start_server - Отправка ответа клиенту: 
+2021-11-04 17:16:19,092 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:16:27,694 - INFO - server: start_server - Готов к приему клиентов! 
+ 
+2021-11-04 17:16:35,559 - INFO - server: start_server - Принято сообщение от клиента: {'action': 'presence', 'time': '2021-11-04-17.16.35', 'user': {'account_name': 'Guest'}} 
+2021-11-04 17:16:35,559 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:16:35,559 - INFO - server: start_server - Приветствуем пользователя Guest! 
+2021-11-04 17:16:35,559 - INFO - server: start_server - Отправка ответа клиенту: 
+2021-11-04 17:16:59,204 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-11-04 17:16:59,204 - WARNING - server_config_log: <module> - Внимание! 
+2021-11-04 17:16:59,204 - ERROR - server_config_log: <module> - Ошибка! 
+2021-11-04 17:17:47,009 - INFO - server_config_log: <module> - Информационное сообщение 
+2021-11-04 17:17:47,009 - WARNING - server_config_log: <module> - Внимание! 
+2021-11-04 17:17:47,009 - ERROR - server_config_log: <module> - Ошибка! 
+2021-11-04 17:17:56,679 - INFO - server: start_server - Готов к приему клиентов! 
+ 
+2021-11-04 17:18:03,728 - INFO - server: start_server - Принято сообщение от клиента: {'action': 'presence', 'time': '2021-11-04-17.18.03', 'user': {'account_name': 'Guest'}} 
+2021-11-04 17:18:03,728 - INFO - server: check_correct_presence_and_response - Запуск функции проверки корректности запроса 
+2021-11-04 17:18:03,728 - INFO - server: start_server - Приветствуем пользователя Guest! 
+2021-11-04 17:18:03,729 - INFO - server: start_server - Отправка ответа клиенту: 

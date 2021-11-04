@@ -1,0 +1,38 @@
+2021-11-04 17:13:59,635 - INFO - client: start_client - Запуск клиента 
+2021-11-04 17:14:14,583 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:14:37,362 - INFO - client: start_client - Запуск клиента 
+2021-11-04 17:14:37,364 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:14:37,365 - INFO - client: start_client - Отправляю сообщение "{'action': 'presence', 'time': '2021-11-04-17.14.37', 'user': {'account_name': 'Guest'}}" на сервер 
+2021-11-04 17:14:37,365 - INFO - client: start_client - жду ответа 
+2021-11-04 17:14:37,397 - INFO - client: start_client - Ответ: 
+2021-11-04 17:14:37,397 - INFO - client: start_client - Сервер нас понимает! 
+2021-11-04 17:15:00,965 - INFO - client: start_client - Запуск клиента 
+2021-11-04 17:15:00,968 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:15:00,968 - INFO - client: start_client - Отправляю сообщение "{'action': 'presence', 'time': '2021-11-04-17.15.00', 'user': {'account_name': 'Guest'}}" на сервер 
+2021-11-04 17:15:00,968 - INFO - client: start_client - жду ответа 
+2021-11-04 17:15:00,969 - INFO - client: start_client - Ответ: 
+2021-11-04 17:15:00,969 - INFO - client: start_client - Сервер нас понимает! 
+2021-11-04 17:16:23,631 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:16:23,632 - ERROR - client: create_presence_message - Имя пользователя более 25 символов! 
+2021-11-04 17:16:23,632 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:16:23,632 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:16:35,554 - INFO - client: start_client - Запуск клиента 
+2021-11-04 17:16:35,557 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:16:35,557 - INFO - client: start_client - Отправляю сообщение "{'action': 'presence', 'time': '2021-11-04-17.16.35', 'user': {'account_name': 'Guest'}}" на сервер 
+2021-11-04 17:16:35,557 - INFO - client: start_client - жду ответа 
+2021-11-04 17:16:35,559 - INFO - client: start_client - Ответ: 
+2021-11-04 17:16:35,559 - INFO - client: start_client - Сервер нас понимает! 
+2021-11-04 17:16:55,934 - INFO - client_config_log: <module> - Информационное сообщение 
+2021-11-04 17:16:55,934 - WARNING - client_config_log: <module> - Внимание! 
+2021-11-04 17:16:55,934 - ERROR - client_config_log: <module> - Ошибка! 
+2021-11-04 17:17:36,478 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:17:36,478 - ERROR - client: create_presence_message - Имя пользователя более 25 символов! 
+2021-11-04 17:17:41,959 - INFO - client_config_log: <module> - Информационное сообщение 
+2021-11-04 17:17:41,959 - WARNING - client_config_log: <module> - Внимание! 
+2021-11-04 17:17:41,959 - ERROR - client_config_log: <module> - Ошибка! 
+2021-11-04 17:18:03,724 - INFO - client: start_client - Запуск клиента 
+2021-11-04 17:18:03,727 - INFO - client: create_presence_message - Формирование сообщения 
+2021-11-04 17:18:03,727 - INFO - client: start_client - Отправляю сообщение "{'action': 'presence', 'time': '2021-11-04-17.18.03', 'user': {'account_name': 'Guest'}}" на сервер 
+2021-11-04 17:18:03,727 - INFO - client: start_client - жду ответа 
+2021-11-04 17:18:03,729 - INFO - client: start_client - Ответ: 
+2021-11-04 17:18:03,729 - INFO - client: start_client - Сервер нас понимает! 
