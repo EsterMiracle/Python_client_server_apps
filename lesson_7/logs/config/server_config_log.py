@@ -7,7 +7,7 @@ server_log.setLevel(logging.INFO)
 
 # Создаем обработчик
 SERVER_LOG_CONFIG_FOLDER_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
-SERVER_LOG_FILE_PATH = os.path.join(SERVER_LOG_CONFIG_FOLDER_PATH, 'server.log')
+SERVER_LOG_FILE_PATH = os.path.join(SERVER_LOG_CONFIG_FOLDER_PATH, 'server.logs')
 server_file_hand = logging.handlers.TimedRotatingFileHandler(SERVER_LOG_FILE_PATH, encoding='utf-8', when='D',
                                                              interval=1)
 server_file_hand.setLevel(logging.INFO)

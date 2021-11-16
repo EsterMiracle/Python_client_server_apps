@@ -9,7 +9,6 @@ def main():
 ...в логе должна быть отражена информация:
 "<дата-время> Функция func_z() вызвана из функции main"
 """
-
 import time
 import traceback
 from functools import wraps

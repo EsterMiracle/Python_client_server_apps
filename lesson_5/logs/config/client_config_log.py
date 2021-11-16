@@ -7,7 +7,7 @@ client_log.setLevel(logging.INFO)
 
 # Создаем обработчик
 CLIENT_LOG_CONFIG_FOLDER_PATH = os.path.split(os.path.dirname(os.path.abspath(__file__)))[0]
-CLIENT_LOG_FILE_PATH = os.path.join(CLIENT_LOG_CONFIG_FOLDER_PATH, 'client.log')
+CLIENT_LOG_FILE_PATH = os.path.join(CLIENT_LOG_CONFIG_FOLDER_PATH, 'client.logs')
 file_hand = logging.FileHandler(CLIENT_LOG_FILE_PATH, encoding='utf-8')
 file_hand.setLevel(logging.INFO)
 # Определяем формат лога
